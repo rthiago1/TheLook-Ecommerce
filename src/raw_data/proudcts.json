@@ -1,0 +1,1451 @@
+[{
+    "id": "13842",
+    "cost": "2.5187499908497561",
+    "category": "Accessories",
+    "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+    "brand": "MG",
+    "retail_price": "6.25",
+    "department": "Women",
+    "sku": "EBD58B8A3F1D72F4206201DA62FB1204",
+    "distribution_center_id": "1"
+  }, {
+    "id": "13928",
+    "cost": "2.3383499148894105",
+    "category": "Accessories",
+    "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+    "brand": "MG",
+    "retail_price": "5.9499998092651367",
+    "department": "Women",
+    "sku": "2EAC42424D12436BDD6A5B8A88480CC3",
+    "distribution_center_id": "1"
+  }, {
+    "id": "14115",
+    "cost": "4.8795598793798689",
+    "category": "Accessories",
+    "name": "Enzyme Regular Solid Army Caps-Black W35S45D",
+    "brand": "MG",
+    "retail_price": "10.989999771118164",
+    "department": "Women",
+    "sku": "EE364229B2791D1EF9355708EFF0BA34",
+    "distribution_center_id": "1"
+  }, {
+    "id": "14157",
+    "cost": "4.648769887297898",
+    "category": "Accessories",
+    "name": "Enzyme Regular Solid Army Caps-Olive W35S45D (One Size)",
+    "brand": "MG",
+    "retail_price": "10.989999771118164",
+    "department": "Women",
+    "sku": "00BD13095D06C20B11A2993CA419D16B",
+    "distribution_center_id": "1"
+  }, {
+    "id": "14273",
+    "cost": "6.507929886473045",
+    "category": "Accessories",
+    "name": "Washed Canvas Ivy Cap - Black W11S64C",
+    "brand": "MG",
+    "retail_price": "15.989999771118164",
+    "department": "Women",
+    "sku": "F531DC20FDE20B7ADF3A73F52B71D0AF",
+    "distribution_center_id": "1"
+  }, {
+    "id": "15674",
+    "cost": "3.1062499998370185",
+    "category": "Plus",
+    "name": "Low Profile Dyed Cotton Twill Cap - Navy W39S55D",
+    "brand": "MG",
+    "retail_price": "6.25",
+    "department": "Women",
+    "sku": "63894CE404B8C652915C41EF8B879D20",
+    "distribution_center_id": "1"
+  }, {
+    "id": "15816",
+    "cost": "3.1772999091416594",
+    "category": "Plus",
+    "name": "Low Profile Dyed Cotton Twill Cap - Putty W39S55D",
+    "brand": "MG",
+    "retail_price": "5.9499998092651367",
+    "department": "Women",
+    "sku": "151EA8C2D98CE89C2336324C11B1E107",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28646",
+    "cost": "8.73562987972319",
+    "category": "Accessories",
+    "name": "4 Panel Large Bill Flap Hat W15S48B (One Size Fits Most/Khaki)",
+    "brand": "MG",
+    "retail_price": "19.989999771118164",
+    "department": "Men",
+    "sku": "789334DE6DAA80D83AB4ACB6A4BF5AC7",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28670",
+    "cost": "2.6759399153566363",
+    "category": "Accessories",
+    "name": "Low Profile Dyed Cotton Twill Cap - Black W39S55D",
+    "brand": "MG",
+    "retail_price": "6.179999828338623",
+    "department": "Men",
+    "sku": "E74843B99DA8B29775C6AA9080436844",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28714",
+    "cost": "2.275000000372529",
+    "category": "Accessories",
+    "name": "Low Profile Dyed Cotton Twill Cap - Khaki W39S55D",
+    "brand": "MG",
+    "retail_price": "6.25",
+    "department": "Men",
+    "sku": "8CA33D44648CC9FEECEF21E5A7123291",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28779",
+    "cost": "7.36748991528362",
+    "category": "Accessories",
+    "name": "Fishing Hat (01)-Khaki W10S32F",
+    "brand": "MG",
+    "retail_price": "20.989999771118164",
+    "department": "Men",
+    "sku": "167D739013D283895E59F360A8EF992C",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28904",
+    "cost": "6.7957498848550015",
+    "category": "Accessories",
+    "name": "Fashion Plaid Ivy Cap - Blue W10S69F",
+    "brand": "MG",
+    "retail_price": "15.989999771118164",
+    "department": "Men",
+    "sku": "0EBD0B8B51EB0D0062065A7657486C8E",
+    "distribution_center_id": "1"
+  }, {
+    "id": "29007",
+    "cost": "10.795999868229032",
+    "category": "Accessories",
+    "name": "Washed Hunting Fishing Outdoor Hat-Camo W11S41D",
+    "brand": "MG",
+    "retail_price": "26.989999771118164",
+    "department": "Men",
+    "sku": "11172787BDF65BA27B6349969D340AF4",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12777",
+    "cost": "16.691290760814255",
+    "category": "Swim",
+    "name": "Womens MW Tankini Boyshorts Swimsuit Swimwear Crisscross Back Multiple Prints S-xxl",
+    "brand": "MW",
+    "retail_price": "44.9900016784668",
+    "department": "Women",
+    "sku": "553C3741E8D893FE9789A3EB8A162821",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12810",
+    "cost": "21.055320884742144",
+    "category": "Swim",
+    "name": "Mw Long Ruffle Tankini Bikini Swimsuit Bra Straps Multiple Prints",
+    "brand": "MW",
+    "retail_price": "44.9900016784668",
+    "department": "Women",
+    "sku": "5A1106FCB6C23317695F2F619988EF41",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12812",
+    "cost": "21.14530090284795",
+    "category": "Swim",
+    "name": "Womens long tankini bikini swimsuit Marina West 2 piece multiple prints bra straps",
+    "brand": "MW",
+    "retail_price": "44.9900016784668",
+    "department": "Women",
+    "sku": "179DB74797BDE5F379B623AB73EE7C64",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12853",
+    "cost": "18.71584077014294",
+    "category": "Swim",
+    "name": "Womens MW Tankini Boyshorts Swimsuit Swimwear Fashion prints S-XXL",
+    "brand": "MW",
+    "retail_price": "44.9900016784668",
+    "department": "Women",
+    "sku": "5EF893A3104AB0CC85519A2AD3FEC050",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12900",
+    "cost": "17.395650788233059",
+    "category": "Swim",
+    "name": "Womens One Piece/bikini Monokini Swimsuit w/ Fringe MW Multiple Prints and Solids",
+    "brand": "MW",
+    "retail_price": "39.9900016784668",
+    "department": "Women",
+    "sku": "09EA221D3DB11DF1F369094FFB4BDA7C",
+    "distribution_center_id": "1"
+  }, {
+    "id": "13247",
+    "cost": "20.650410887066428",
+    "category": "Swim",
+    "name": "Womens swimsuit MW Swimwear Set Halter w/ Boyshorts 2 piece bikini multiple prints",
+    "brand": "MW",
+    "retail_price": "44.9900016784668",
+    "department": "Women",
+    "sku": "EB61C2B1B1BF5D25C86DA9FCEEF54538",
+    "distribution_center_id": "1"
+  }, {
+    "id": "13477",
+    "cost": "22.600890809484422",
+    "category": "Swim",
+    "name": "MW Women\u0027s Swimsuit Two Piece Black Tankini with Bikini Bottoms",
+    "brand": "MW",
+    "retail_price": "54.9900016784668",
+    "department": "Women",
+    "sku": "DBC50898CF582DFEBD6D7ADF4EAF9EB6",
+    "distribution_center_id": "1"
+  }, {
+    "id": "13574",
+    "cost": "19.390690801185968",
+    "category": "Swim",
+    "name": "Womens MW Two Piece Tankini Boyshorts Swimsuit Brown \u0026 Turquoise Ethnic Print",
+    "brand": "MW",
+    "retail_price": "44.9900016784668",
+    "department": "Women",
+    "sku": "96A83C96ABBE6D0B40C72B279EBDF76E",
+    "distribution_center_id": "1"
+  }, {
+    "id": "2848",
+    "cost": "20.946700439925493",
+    "category": "Active",
+    "name": "2XU Women\u0027s Compression Recovery Sock",
+    "brand": "2XU",
+    "retail_price": "44.950000762939446",
+    "department": "Women",
+    "sku": "5A2756A3CB9CDE852CAD3C97E120B656",
+    "distribution_center_id": "1"
+  }, {
+    "id": "3039",
+    "cost": "22.627350425997378",
+    "category": "Active",
+    "name": "2XU Women\u0027s Compression Race Sock",
+    "brand": "2XU",
+    "retail_price": "49.950000762939446",
+    "department": "Women",
+    "sku": "F0204E1D3EE3E4B05DE4E2DDBD39E076",
+    "distribution_center_id": "1"
+  }, {
+    "id": "9041",
+    "cost": "20.479500227209176",
+    "category": "Socks \u0026 Hosiery",
+    "name": "2XU Women\u0027s Compression Race Sock",
+    "brand": "2XU",
+    "retail_price": "49.950000762939446",
+    "department": "Women",
+    "sku": "70D355680E628FE1C552221F690D8DA4",
+    "distribution_center_id": "1"
+  }, {
+    "id": "13122",
+    "cost": "68.737372014259108",
+    "category": "Swim",
+    "name": "2XU Women\u0027s Swimmers Compression Long Sleeve Top",
+    "brand": "2XU",
+    "retail_price": "150.41000366210938",
+    "department": "Women",
+    "sku": "8922176F5043C3196357E6E8D2D50852",
+    "distribution_center_id": "1"
+  }, {
+    "id": "18147",
+    "cost": "17.069900398133232",
+    "category": "Active",
+    "name": "2XU Non-Stirrup Compression Calf Guard",
+    "brand": "2XU",
+    "retail_price": "40.450000762939446",
+    "department": "Men",
+    "sku": "41371BE284C70C592049717C38E42081",
+    "distribution_center_id": "1"
+  }, {
+    "id": "18363",
+    "cost": "65.0955812367481",
+    "category": "Active",
+    "name": "2XU Men\u0027s Compression Recovery Tights",
+    "brand": "2XU",
+    "retail_price": "159.94000244140625",
+    "department": "Men",
+    "sku": "0029F088C57AD3B6EC589F9BA4F7A057",
+    "distribution_center_id": "1"
+  }, {
+    "id": "18394",
+    "cost": "22.977000395610929",
+    "category": "Active",
+    "name": "2XU Men\u0027s Compression Race Sock",
+    "brand": "2XU",
+    "retail_price": "49.950000762939446",
+    "department": "Men",
+    "sku": "87549E74D3546183365AD3F438A48FC4",
+    "distribution_center_id": "1"
+  }, {
+    "id": "18465",
+    "cost": "27.240000218153",
+    "category": "Active",
+    "name": "2XU Men\u0027s Elite Compression Performance Sock",
+    "brand": "2XU",
+    "retail_price": "60.0",
+    "department": "Men",
+    "sku": "C3EC22F418B0A5CFC919DE3E41411D38",
+    "distribution_center_id": "1"
+  }, {
+    "id": "18593",
+    "cost": "17.00110065520704",
+    "category": "Active",
+    "name": "2XU Men\u0027s Compression Recovery Sock",
+    "brand": "2XU",
+    "retail_price": "43.150001525878906",
+    "department": "Men",
+    "sku": "4F9604E8959AF0FAA3BA6316B5CD1B23",
+    "distribution_center_id": "1"
+  }, {
+    "id": "18607",
+    "cost": "30.636169286714789",
+    "category": "Active",
+    "name": "2XU Men\u0027s Compression 3/4 Tights",
+    "brand": "2XU",
+    "retail_price": "79.989997863769531",
+    "department": "Men",
+    "sku": "CC397301371EEC5A48FB375CE4CE7BCE",
+    "distribution_center_id": "1"
+  }, {
+    "id": "18644",
+    "cost": "41.287679069824208",
+    "category": "Active",
+    "name": "2XU Men\u0027s Elite Compression Long Sleeve Top",
+    "brand": "2XU",
+    "retail_price": "107.51999664306641",
+    "department": "Men",
+    "sku": "94B6CE9C1DBB412DCC36E2850627056F",
+    "distribution_center_id": "1"
+  }, {
+    "id": "18664",
+    "cost": "25.838450432452561",
+    "category": "Active",
+    "name": "2XU Recovery Compression Leg Sleeves",
+    "brand": "2XU",
+    "retail_price": "59.950000762939446",
+    "department": "Men",
+    "sku": "4148DBFEFE2CEF3F36B4866A1485E1EC",
+    "distribution_center_id": "1"
+  }, {
+    "id": "18708",
+    "cost": "42.597260613372327",
+    "category": "Active",
+    "name": "2XU Men\u0027s Thermal Compression Long Sleeve Top",
+    "brand": "2XU",
+    "retail_price": "111.22000122070312",
+    "department": "Men",
+    "sku": "C64107E33AA9FEE83D57501F9A672344",
+    "distribution_center_id": "1"
+  }, {
+    "id": "18796",
+    "cost": "36.31391910439163",
+    "category": "Active",
+    "name": "2XU Men\u0027s Compression Long Sleeve Top",
+    "brand": "2XU",
+    "retail_price": "84.05999755859375",
+    "department": "Men",
+    "sku": "DDBEC3BD380A444ACE1E4206072A0085",
+    "distribution_center_id": "1"
+  }, {
+    "id": "24644",
+    "cost": "27.872100528435407",
+    "category": "Socks",
+    "name": "2XU Men\u0027s Compression Race Sock",
+    "brand": "2XU",
+    "retail_price": "49.950000762939446",
+    "department": "Men",
+    "sku": "C9344998D1ECC002E56B572B310A2AB1",
+    "distribution_center_id": "1"
+  }, {
+    "id": "24674",
+    "cost": "35.640000086277723",
+    "category": "Socks",
+    "name": "2XU Men\u0027s Elite Compression Performance Sock",
+    "brand": "2XU",
+    "retail_price": "60.0",
+    "department": "Men",
+    "sku": "8921E04BEB6F494B73E3C8FE8928807A",
+    "distribution_center_id": "1"
+  }, {
+    "id": "24731",
+    "cost": "25.58795095982142",
+    "category": "Socks",
+    "name": "2XU Men\u0027s Compression Recovery Sock",
+    "brand": "2XU",
+    "retail_price": "43.150001525878906",
+    "department": "Men",
+    "sku": "C5D644FA8A86AD83E43F040A9EEB4BBC",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27569",
+    "cost": "92.6525625942932",
+    "category": "Swim",
+    "name": "2XU Men\u0027s Swimmers Compression Long Sleeve Top",
+    "brand": "2XU",
+    "retail_price": "150.41000366210938",
+    "department": "Men",
+    "sku": "B23C5765E165D83AA924FA8F13C05F25",
+    "distribution_center_id": "1"
+  }, {
+    "id": "3206",
+    "cost": "38.314999952912331",
+    "category": "Dresses",
+    "name": "AGB Women\u0027s Long Sleeve Striped Sweater Dress",
+    "brand": "AGB",
+    "retail_price": "79.0",
+    "department": "Women",
+    "sku": "211ED78FE91938B90F84A51944B08D5A",
+    "distribution_center_id": "1"
+  }, {
+    "id": "3660",
+    "cost": "21.919649713848159",
+    "category": "Dresses",
+    "name": "AGB Women\u0027s Short Sleeve Cowl Necked Sweater Dress",
+    "brand": "AGB",
+    "retail_price": "50.389999389648438",
+    "department": "Women",
+    "sku": "9627C45DF543C816A3DDF2D8EA686A99",
+    "distribution_center_id": "1"
+  }, {
+    "id": "3682",
+    "cost": "18.956299259465936",
+    "category": "Dresses",
+    "name": "AGB Women\u0027s Striped Long Sleeve Sweater Dress With Sash",
+    "brand": "AGB",
+    "retail_price": "45.349998474121087",
+    "department": "Women",
+    "sku": "898AEF0932F6AAECDA27ABA8E9903991",
+    "distribution_center_id": "1"
+  }, {
+    "id": "3730",
+    "cost": "39.070999938994646",
+    "category": "Dresses",
+    "name": "AGB Women\u0027s V-Neck Dress With Draped Side",
+    "brand": "AGB",
+    "retail_price": "89.0",
+    "department": "Women",
+    "sku": "D8C24CA8F23C562A5600876CA2A550CE",
+    "distribution_center_id": "1"
+  }, {
+    "id": "3943",
+    "cost": "26.280800324571128",
+    "category": "Dresses",
+    "name": "AGB Women\u0027s Plus-Size Ruched Short Sleeve V-Neck Dress with Empire Waistline",
+    "brand": "AGB",
+    "retail_price": "53.200000762939446",
+    "department": "Women",
+    "sku": "DA21BAE82C02D1E2B8168D57CD3FBAB7",
+    "distribution_center_id": "1"
+  }, {
+    "id": "5353",
+    "cost": "22.46999996714294",
+    "category": "Pants \u0026 Capris",
+    "name": "AGB Women\u0027s Solid Challis Palazzo Pant With Self Sash",
+    "brand": "AGB",
+    "retail_price": "42.0",
+    "department": "Women",
+    "sku": "AA0D2A804A3510442F2FD40F2100B054",
+    "distribution_center_id": "1"
+  }, {
+    "id": "5433",
+    "cost": "11.640959460911304",
+    "category": "Pants \u0026 Capris",
+    "name": "BKE Women\u0027s Casual Linen Cotton Natural Comfortable Pants",
+    "brand": "BKE",
+    "retail_price": "20.209999084472656",
+    "department": "Women",
+    "sku": "BF25356FD2A6E038F1A3A59C26687E80",
+    "distribution_center_id": "1"
+  }, {
+    "id": "9035",
+    "cost": "1.3983000106409191",
+    "category": "Socks \u0026 Hosiery",
+    "name": "HDE Women\u0027s Solid Color Premium Microfiber Tights",
+    "brand": "HDE",
+    "retail_price": "3.9500000476837158",
+    "department": "Women",
+    "sku": "D91FB359652B5C9D9842B11D1C6FADA5",
+    "distribution_center_id": "1"
+  }, {
+    "id": "14170",
+    "cost": "1.1859000150532462",
+    "category": "Accessories",
+    "name": "HDE Ladies Fashion Leather Skinny Belt with Bow Buckle \u0026 Gold Accents",
+    "brand": "HDE",
+    "retail_price": "2.9500000476837158",
+    "department": "Women",
+    "sku": "C5FE17B7A8D023ADE2BBB05E574EEF78",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28411",
+    "cost": "2.083760045012236",
+    "category": "Accessories",
+    "name": "HDE Solid Color Suspenders - 20 Styles",
+    "brand": "HDE",
+    "retail_price": "4.880000114440918",
+    "department": "Men",
+    "sku": "F512288BB4D64BBA2C024BC73646808D",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28548",
+    "cost": "1.2803000217497349",
+    "category": "Accessories",
+    "name": "HDE Classic Bow Tie",
+    "brand": "HDE",
+    "retail_price": "2.9500000476837158",
+    "department": "Men",
+    "sku": "D1D6E4E428DA3798F5D662CB3C8CD74F",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28873",
+    "cost": "1.3904000092506408",
+    "category": "Accessories",
+    "name": "HDE Colorful Pattern Suspenders",
+    "brand": "HDE",
+    "retail_price": "3.9500000476837158",
+    "department": "Men",
+    "sku": "CCFED80E87BA3E3A64B55176DF02A9D5",
+    "distribution_center_id": "1"
+  }, {
+    "id": "29033",
+    "cost": "1.7182500154450535",
+    "category": "Accessories",
+    "name": "HDE Pattern Suspenders",
+    "brand": "HDE",
+    "retail_price": "3.9500000476837158",
+    "department": "Men",
+    "sku": "AA2C576BFEB26B7D269793A6F40D1961",
+    "distribution_center_id": "1"
+  }, {
+    "id": "25038",
+    "cost": "7.6001998779803506",
+    "category": "Socks",
+    "name": "Huf Plantlife Crew Socks",
+    "brand": "Huf",
+    "retail_price": "11.949999809265137",
+    "department": "Men",
+    "sku": "8A58BEB9988F8B83E2F4AD93576C2F6A",
+    "distribution_center_id": "1"
+  }, {
+    "id": "17159",
+    "cost": "28.429830918571056",
+    "category": "Fashion Hoodies \u0026 Sweatshirts",
+    "name": "Independent Trading Co. Mens Sherpa Lined Full-Zip Contrast Hooded Sweatshirt (Assorted Colors)",
+    "brand": "ITC",
+    "retail_price": "54.9900016784668",
+    "department": "Men",
+    "sku": "986AD3ADA4D93C1C474674751F941082",
+    "distribution_center_id": "1"
+  }, {
+    "id": "5357",
+    "cost": "15.4504798515518",
+    "category": "Pants \u0026 Capris",
+    "name": "(1272) Ladies Wide Leg Smart City Trousers Light Brown",
+    "brand": "Ice",
+    "retail_price": "27.989999771118164",
+    "department": "Women",
+    "sku": "82DEBD8A12B498E765A11A8E51159440",
+    "distribution_center_id": "1"
+  }, {
+    "id": "5440",
+    "cost": "13.46318990700826",
+    "category": "Pants \u0026 Capris",
+    "name": "(1272) Wide Leg Smart Soft City Trousers Black",
+    "brand": "Ice",
+    "retail_price": "27.989999771118164",
+    "department": "Women",
+    "sku": "7A2347D96752880E3D58D72E9813CC14",
+    "distribution_center_id": "1"
+  }, {
+    "id": "5474",
+    "cost": "13.894439869390281",
+    "category": "Pants \u0026 Capris",
+    "name": "(1279) Skinny Trousers Military Army Look Camourflage",
+    "brand": "Ice",
+    "retail_price": "24.989999771118164",
+    "department": "Women",
+    "sku": "4DEA382D82666332FB564F2E711CBC71",
+    "distribution_center_id": "1"
+  }, {
+    "id": "7234",
+    "cost": "9.19631984055072",
+    "category": "Skirts",
+    "name": "(2384) Fishtail Peplum Hem Pencil Skirt Black",
+    "brand": "Ice",
+    "retail_price": "24.989999771118164",
+    "department": "Women",
+    "sku": "44D47238D7D3E17AA176019EAFAC82AF",
+    "distribution_center_id": "1"
+  }, {
+    "id": "7236",
+    "cost": "11.383619829264582",
+    "category": "Skirts",
+    "name": "ICE (2328) Stretch Black Satin Pencil Skirt-14",
+    "brand": "Ice",
+    "retail_price": "25.989999771118164",
+    "department": "Women",
+    "sku": "58AE23D878A47004366189884C2F8440",
+    "distribution_center_id": "1"
+  }, {
+    "id": "7246",
+    "cost": "9.4520598728214953",
+    "category": "Skirts",
+    "name": "(2328) Satin Pencil Skirt with Skinny Belt Purple",
+    "brand": "Ice",
+    "retail_price": "23.989999771118164",
+    "department": "Women",
+    "sku": "D240CB4A3E3D2ED5250AC2E1480422F0",
+    "distribution_center_id": "1"
+  }, {
+    "id": "7377",
+    "cost": "10.1959198788739",
+    "category": "Skirts",
+    "name": "(2382) Waist Detail Pencil Skirt Shadow Stripe",
+    "brand": "Ice",
+    "retail_price": "24.989999771118164",
+    "department": "Women",
+    "sku": "A76C0ABE2B7B1B79E70F0073F43C3B44",
+    "distribution_center_id": "1"
+  }, {
+    "id": "7448",
+    "cost": "9.1713298832309267",
+    "category": "Skirts",
+    "name": "(2384) Fishtail Flute Skirt with Free Skinny Belt Beige",
+    "brand": "Ice",
+    "retail_price": "24.989999771118164",
+    "department": "Women",
+    "sku": "987B75E2727AE55289ABD70D3F5864E6",
+    "distribution_center_id": "1"
+  }, {
+    "id": "7903",
+    "cost": "10.567589980136454",
+    "category": "Blazers \u0026 Jackets",
+    "name": "ICE (5066) ladies smart herring bone tweed jacket brown 6-16",
+    "brand": "Ice",
+    "retail_price": "30.989999771118164",
+    "department": "Women",
+    "sku": "84CB17743002B4CFB81B0153CEE648FC",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8080",
+    "cost": "37.113601108783485",
+    "category": "Suits",
+    "name": "(6252) Pinstripe Tailored Boot Leg Trouser Suit",
+    "brand": "Ice",
+    "retail_price": "57.9900016784668",
+    "department": "Women",
+    "sku": "D4A973E303EC37692CC8923E3148EEF7",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8089",
+    "cost": "49.165528608800166",
+    "category": "Suits",
+    "name": "(6249-2) Smart Satin Evening Suit with Flute Skirt Beige",
+    "brand": "Ice",
+    "retail_price": "75.989997863769531",
+    "department": "Women",
+    "sku": "A992A9E939240CE589ACCF70240BDDDA",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8093",
+    "cost": "14.139569917708933",
+    "category": "Suits",
+    "name": "ICE (2327) smart stretch pencil skirt + FREE belt black size 6-14",
+    "brand": "Ice",
+    "retail_price": "21.989999771118164",
+    "department": "Women",
+    "sku": "7818354194C4FEAE57304ABADC2C437C",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8101",
+    "cost": "8.50591988700248",
+    "category": "Suits",
+    "name": "ICE (2210) stretch pencil skirt school office navy blue sizes 4-14",
+    "brand": "Ice",
+    "retail_price": "13.989999771118164",
+    "department": "Women",
+    "sku": "C035226640B6B89FFAF333F54E523C10",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8103",
+    "cost": "38.117308918247517",
+    "category": "Suits",
+    "name": "ICE (6237-2) pinstripe tailored trouser suit dark brown sizes 8-16",
+    "brand": "Ice",
+    "retail_price": "66.989997863769531",
+    "department": "Women",
+    "sku": "44151DE6BE734DB545EC958E77B0F9DF",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8107",
+    "cost": "36.057561151015165",
+    "category": "Suits",
+    "name": "(6251) Smart Casual Tailored Trouser Suit Dark Grey",
+    "brand": "Ice",
+    "retail_price": "55.9900016784668",
+    "department": "Women",
+    "sku": "7706D2DC2DA6837340EFFD985DC620B6",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8109",
+    "cost": "37.754101099950816",
+    "category": "Suits",
+    "name": "(6240) Dip Hemmed Flute Skirt Suit Pinstripe Black",
+    "brand": "Ice",
+    "retail_price": "63.9900016784668",
+    "department": "Women",
+    "sku": "D30D0F522A86B3665D8E3A9A91472E28",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8110",
+    "cost": "9.7012899088031048",
+    "category": "Suits",
+    "name": "ICE (2356) stretch pencil skirt smart casual black 4-16",
+    "brand": "Ice",
+    "retail_price": "16.989999771118164",
+    "department": "Women",
+    "sku": "71B9E42FD1490C2EE83C1BC4C4E37DA3",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8139",
+    "cost": "59.51379877566248",
+    "category": "Suits",
+    "name": "(6242) Function Cocktail Lace Bolero Skirt Suit Black",
+    "brand": "Ice",
+    "retail_price": "95.989997863769517",
+    "department": "Women",
+    "sku": "E025B6279C1B88D3EC0ECA6FCB6E6280",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8145",
+    "cost": "44.834098869843032",
+    "category": "Suits",
+    "name": "(6249-3) Teddy Style Function Suit with Pencil Skirt Grey",
+    "brand": "Ice",
+    "retail_price": "75.989997863769531",
+    "department": "Women",
+    "sku": "0C0CFD9478C6551FBFE74A7ACB6FC037",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8148",
+    "cost": "42.906038820402728",
+    "category": "Suits",
+    "name": "ICE (6234) smart tailored pencil skirt suit grey stripe sizes 10-18",
+    "brand": "Ice",
+    "retail_price": "71.989997863769531",
+    "department": "Women",
+    "sku": "E2C4C0B38669387A2A842E1FE391D233",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8155",
+    "cost": "42.87359867274165",
+    "category": "Suits",
+    "name": "ICE (6237-1) pinstripe tailored trouser suit dark navy blue sizes 8-16",
+    "brand": "Ice",
+    "retail_price": "66.989997863769531",
+    "department": "Women",
+    "sku": "FB647CA6672B0930E9D00DC384D8B16F",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8158",
+    "cost": "15.12617992565751",
+    "category": "Suits",
+    "name": "ICE (2347) pencil skirt stretch sateen + FREE belt red size 6-16",
+    "brand": "Ice",
+    "retail_price": "25.989999771118164",
+    "department": "Women",
+    "sku": "7AE26CBE9586DEA7D1F0FA372AA86811",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8160",
+    "cost": "15.697959905421325",
+    "category": "Suits",
+    "name": "ICE (2328) pencil skirt stretch satin + FREE belt red size 6-16",
+    "brand": "Ice",
+    "retail_price": "25.989999771118164",
+    "department": "Women",
+    "sku": "89D9C467C2926DE8EF12D1F3E006D06B",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8162",
+    "cost": "9.8202198950487354",
+    "category": "Suits",
+    "name": "ICE smart stretch pencil skirt beige 4-16",
+    "brand": "Ice",
+    "retail_price": "16.989999771118164",
+    "department": "Women",
+    "sku": "7F2776F553FE2D5F8BC9A0E0A6D9EC12",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8185",
+    "cost": "10.261959890300371",
+    "category": "Suits",
+    "name": "ICE (2356) Stretch Pencil Skirt Smart Casual Wine 4-16",
+    "brand": "Ice",
+    "retail_price": "16.989999771118164",
+    "department": "Women",
+    "sku": "45AB12AFA05E563BB484781693DFFC87",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8188",
+    "cost": "35.497661251034742",
+    "category": "Suits",
+    "name": "(6239) Waist Detail Pencil Skirt Suit Shadow Stripe Black",
+    "brand": "Ice",
+    "retail_price": "55.9900016784668",
+    "department": "Women",
+    "sku": "62161512D8B1B5DB826778917E974B21",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8189",
+    "cost": "19.204350993917885",
+    "category": "Suits",
+    "name": "ICE (2359) lined chelsea beaded pencil skirt black sizes 8-18",
+    "brand": "Ice",
+    "retail_price": "33.9900016784668",
+    "department": "Women",
+    "sku": "65184321C340B4D56581EE59B58D9D56",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8191",
+    "cost": "43.697928826136206",
+    "category": "Suits",
+    "name": "ICE (6230) smart pencil skirt suit black shadow stripe sizes 10-20",
+    "brand": "Ice",
+    "retail_price": "71.989997863769531",
+    "department": "Women",
+    "sku": "4B2944DFEA61BE814911110C21DDD974",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8194",
+    "cost": "16.139789889234155",
+    "category": "Suits",
+    "name": "ICE (2328) pencil skirt stretch satin + FREE belt black size 6-16",
+    "brand": "Ice",
+    "retail_price": "25.989999771118164",
+    "department": "Women",
+    "sku": "90B8E8ECA90756905BF80C293AE6A50A",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8195",
+    "cost": "39.658078809719605",
+    "category": "Suits",
+    "name": "ICE (6235) smart tailored trouser suit dark grey sizes 10-20",
+    "brand": "Ice",
+    "retail_price": "66.989997863769531",
+    "department": "Women",
+    "sku": "3C88C1DB16B9523B4DCDCD572AA1E16A",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8197",
+    "cost": "16.191769897296577",
+    "category": "Suits",
+    "name": "ICE (2347) Pencil Skirt Stretch Sateen + Free Belt Silver Grey Size 6-16",
+    "brand": "Ice",
+    "retail_price": "25.989999771118164",
+    "department": "Women",
+    "sku": "35285AA740B37F0B1933DA97BF4CA4B9",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8199",
+    "cost": "17.165639852822423",
+    "category": "Suits",
+    "name": "ICE (2360) smart fully lined suit pencil skirt texture dark grey sizes 10-20",
+    "brand": "Ice",
+    "retail_price": "26.989999771118164",
+    "department": "Women",
+    "sku": "653CD6F9EFEFE6D273E2C116D2A6B765",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8208",
+    "cost": "16.217759901327788",
+    "category": "Suits",
+    "name": "ICE (2347) pencil skirt stretch sateen + FREE belt black size 6-16",
+    "brand": "Ice",
+    "retail_price": "25.989999771118164",
+    "department": "Women",
+    "sku": "342C472B95D00421BE10E9512B532866",
+    "distribution_center_id": "1"
+  }, {
+    "id": "8209",
+    "cost": "9.8372098976047333",
+    "category": "Suits",
+    "name": "ICE (2356) towie stretch pencil skirt olympic red 4-16",
+    "brand": "Ice",
+    "retail_price": "16.989999771118164",
+    "department": "Women",
+    "sku": "77AE1A5DA3B68DC65A9D1648242A29A7",
+    "distribution_center_id": "1"
+  }, {
+    "id": "70",
+    "cost": "56.924999834038317",
+    "category": "Tops \u0026 Tees",
+    "name": "LnA Women\u0027s Beach Raglan Sweater",
+    "brand": "LNA",
+    "retail_price": "99.0",
+    "department": "Women",
+    "sku": "7CBBC409EC990F19C78C75BD1E06F215",
+    "distribution_center_id": "1"
+  }, {
+    "id": "791",
+    "cost": "44.6489999309415",
+    "category": "Sweaters",
+    "name": "LnA Women\u0027s Alexandrine Sweater",
+    "brand": "LNA",
+    "retail_price": "99.0",
+    "department": "Women",
+    "sku": "DF7F28AC89CA37BF1ABD2F6C184FE1CF",
+    "distribution_center_id": "1"
+  }, {
+    "id": "2060",
+    "cost": "6.0339999981224537",
+    "category": "Fashion Hoodies \u0026 Sweatshirts",
+    "name": "Next Level Apparel Ladies Juniors\u0027 Soft Thermal Hoodie T-Shirt. 8021",
+    "brand": "NLA",
+    "retail_price": "14.0",
+    "department": "Women",
+    "sku": "F8C0C968632845CD133308B1A494967F",
+    "distribution_center_id": "1"
+  }, {
+    "id": "1935",
+    "cost": "59.904000073671341",
+    "category": "Fashion Hoodies \u0026 Sweatshirts",
+    "name": "QSW Women\u0027s Native Cocoon Hoodie",
+    "brand": "QSW",
+    "retail_price": "128.0",
+    "department": "Women",
+    "sku": "8D55A249E6BAA5C06772297520DA2051",
+    "distribution_center_id": "1"
+  }, {
+    "id": "1972",
+    "cost": "36.876000098884106",
+    "category": "Fashion Hoodies \u0026 Sweatshirts",
+    "name": "QSW Women\u0027s Seabreeze Wrap",
+    "brand": "QSW",
+    "retail_price": "84.0",
+    "department": "Women",
+    "sku": "C4DE8CED6214345614D33FB0B16A8ACD",
+    "distribution_center_id": "1"
+  }, {
+    "id": "2349",
+    "cost": "38.472000047564507",
+    "category": "Fashion Hoodies \u0026 Sweatshirts",
+    "name": "QSW Women\u0027s Sand Dunes Hoodie Sweater",
+    "brand": "QSW",
+    "retail_price": "84.0",
+    "department": "Women",
+    "sku": "70FCB77E6349F4467EDD7227BAA73222",
+    "distribution_center_id": "1"
+  }, {
+    "id": "6529",
+    "cost": "31.960000045597557",
+    "category": "Shorts",
+    "name": "QSW Women\u0027s Hannah\u0027s Vintage Cutoff Short",
+    "brand": "QSW",
+    "retail_price": "68.0",
+    "department": "Women",
+    "sku": "AC10EC1ACE51B2D973CD87973A98D3AB",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12746",
+    "cost": "27.840000092983249",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Solid Diamondback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "60.0",
+    "department": "Women",
+    "sku": "C1FCFFD51EB7C38B7209A6106D66CC84",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12750",
+    "cost": "34.939519249829942",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Firerock Diamondback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "77.989997863769531",
+    "department": "Women",
+    "sku": "45B865D134D2C25CF5ED131317FE88DE",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12757",
+    "cost": "22.781000450715425",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Solid Maxback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "59.950000762939446",
+    "department": "Women",
+    "sku": "5B61616B138596DFA7C219DB523F73A6",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12762",
+    "cost": "20.816100375162065",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Solid Durafast Diamondback Workout Bikini",
+    "brand": "TYR",
+    "retail_price": "45.450000762939446",
+    "department": "Women",
+    "sku": "154D7DA9E669C75EE317D46614381DD8",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12768",
+    "cost": "21.746399482494589",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Solid Diamondback Workout Bikini Swim Suit",
+    "brand": "TYR",
+    "retail_price": "55.7599983215332",
+    "department": "Women",
+    "sku": "EFCCE1C8F8C7B18FFA9C63BF6A2713A7",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12794",
+    "cost": "17.141639625748283",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Solid Durafast Maxback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "40.619998931884766",
+    "department": "Women",
+    "sku": "A0098FD07DB7692267FCA4F4169C9BA2",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12803",
+    "cost": "28.096198903571064",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Reversible Solid Diamondback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "70.949996948242188",
+    "department": "Women",
+    "sku": "BBF514D16A56CBA73809FD0B7E262436",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12807",
+    "cost": "31.131429246812761",
+    "category": "Swim",
+    "name": "TYR Alliance Maxback Women\u0027s Suit",
+    "brand": "TYR",
+    "retail_price": "76.489997863769531",
+    "department": "Women",
+    "sku": "431CFE4BD4A84B68398E14AF4BE0BDC3",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12815",
+    "cost": "19.171920763937685",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Durafast Diamondback With Stripping Swim Suit",
+    "brand": "TYR",
+    "retail_price": "46.9900016784668",
+    "department": "Women",
+    "sku": "A48DE938587144BE6BE3B95682B5B948",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12850",
+    "cost": "20.496350471267107",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Alliance Durafast Splice Diamondback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "54.950000762939446",
+    "department": "Women",
+    "sku": "237949CCEAABE986AC5C1CD65CEF13FF",
+    "distribution_center_id": "1"
+  }, {
+    "id": "12967",
+    "cost": "22.616230652448241",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Aurora Maxback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "59.9900016784668",
+    "department": "Women",
+    "sku": "5E2474F1E2B6E1E2A6985974062B664C",
+    "distribution_center_id": "1"
+  }, {
+    "id": "13052",
+    "cost": "22.518540757543448",
+    "category": "Swim",
+    "name": "TYR Sport Girls\u0027 Solid Durafast Maxback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "49.060001373291016",
+    "department": "Women",
+    "sku": "096CE33C96792E289516407EB29B62BB",
+    "distribution_center_id": "1"
+  }, {
+    "id": "13077",
+    "cost": "23.744000110775232",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Universe Diamondback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "56.0",
+    "department": "Women",
+    "sku": "A14FD85EBBD38DBEDDF3CD65BA2C1DA1",
+    "distribution_center_id": "1"
+  }, {
+    "id": "13190",
+    "cost": "27.948000147938728",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Reversible Solid Maxback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "68.0",
+    "department": "Women",
+    "sku": "7D288F69A0110EA0ADD97AE01491E752",
+    "distribution_center_id": "1"
+  }, {
+    "id": "13312",
+    "cost": "30.312000132165849",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Great White Diamondback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "72.0",
+    "department": "Women",
+    "sku": "9DD48D8DF816E1B2B78A1573D0B6CE78",
+    "distribution_center_id": "1"
+  }, {
+    "id": "13350",
+    "cost": "21.168069395914969",
+    "category": "Swim",
+    "name": "TYR Sport Women\u0027s Alliance Durafast Splice Diamondback Swim Suit",
+    "brand": "TYR",
+    "retail_price": "52.0099983215332",
+    "department": "Women",
+    "sku": "560A6A01A9FCE179D1D3A1D8D56758A3",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27445",
+    "cost": "24.71966119429112",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Square Leg Short Swim Suit",
+    "brand": "TYR",
+    "retail_price": "38.9900016784668",
+    "department": "Men",
+    "sku": "2AB7D3B23574C3DEA2BD278AFD0939AB",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27457",
+    "cost": "15.897600255095959",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Solid Durafast Jammer Swim Suit",
+    "brand": "TYR",
+    "retail_price": "27.600000381469727",
+    "department": "Men",
+    "sku": "8F831227B0EB6C6D09A0555531365933",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27466",
+    "cost": "17.850000048056245",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Swim Short/Resistance Short Swim Suit",
+    "brand": "TYR",
+    "retail_price": "30.0",
+    "department": "Men",
+    "sku": "67317D6DCC4CB778AEB9219565F5456B",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27481",
+    "cost": "29.408000515669585",
+    "category": "Swim",
+    "name": "TYR Alliance Team Splice Jammer",
+    "brand": "TYR",
+    "retail_price": "45.950000762939446",
+    "department": "Men",
+    "sku": "213C888198806EF1A0E2BBF2F4855C6C",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27487",
+    "cost": "15.655589914467036",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s 4-Inch Nylon Trainer-A Swim Suit",
+    "brand": "TYR",
+    "retail_price": "26.489999771118164",
+    "department": "Men",
+    "sku": "978F39314267ADC0E1C50DB2615B467C",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27510",
+    "cost": "22.571750484637921",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Solid Jammer Swim Suit",
+    "brand": "TYR",
+    "retail_price": "39.950000762939446",
+    "department": "Men",
+    "sku": "4ECBB790F241666326D31F799EB85D1E",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27529",
+    "cost": "22.824000120162964",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Poly Mesh Trainer Swim Suit",
+    "brand": "TYR",
+    "retail_price": "36.0",
+    "department": "Men",
+    "sku": "C386CBA5332D11385672EE52D036E8C1",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27537",
+    "cost": "24.353911066282688",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Alliance Durafast Splice Square Leg Swim Suit",
+    "brand": "TYR",
+    "retail_price": "39.9900016784668",
+    "department": "Men",
+    "sku": "D012C46243D7E2391B64B221DFCC18E3",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27552",
+    "cost": "19.317550501902403",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Solid Racer Swim Suit",
+    "brand": "TYR",
+    "retail_price": "33.950000762939453",
+    "department": "Men",
+    "sku": "2AF9B1A840B4ECD522FE1CDA88C8385E",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27599",
+    "cost": "16.436200169558823",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s 8-Inch Nylon Team Trainer Swim Suit",
+    "brand": "TYR",
+    "retail_price": "26.510000228881839",
+    "department": "Men",
+    "sku": "B856243E684B903DE6085DC70830792A",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27674",
+    "cost": "27.065919520119127",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Firerock Splice Jammer Swim Suit",
+    "brand": "TYR",
+    "retail_price": "44.959999084472656",
+    "department": "Men",
+    "sku": "18F16DE5C7012D9AB4E5DE2A0DCB829B",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27812",
+    "cost": "14.894039896076579",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Solid Durafast Racer Swim Suit",
+    "brand": "TYR",
+    "retail_price": "24.989999771118164",
+    "department": "Men",
+    "sku": "9729C9467900E712F46044A2E54DA67F",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27960",
+    "cost": "15.075000037904829",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Firerock Splice Racer Swim Suit",
+    "brand": "TYR",
+    "retail_price": "25.0",
+    "department": "Men",
+    "sku": "7428F98008346BB6AA6FC92D257505AB",
+    "distribution_center_id": "1"
+  }, {
+    "id": "27976",
+    "cost": "16.935750499164687",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Alliance Durafast Splice Racer Swim Suit",
+    "brand": "TYR",
+    "retail_price": "28.950000762939453",
+    "department": "Men",
+    "sku": "8A39B5F5618C5F29CD29E10B4C15AADB",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28039",
+    "cost": "21.698000088334084",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Universe Racer",
+    "brand": "TYR",
+    "retail_price": "38.0",
+    "department": "Men",
+    "sku": "0B890A8CA95E146AE3686E4BD3B8C9D2",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28167",
+    "cost": "24.840000048279759",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Universe Splice Jammer",
+    "brand": "TYR",
+    "retail_price": "40.0",
+    "department": "Men",
+    "sku": "BBDBF47737D418BDC77C73EF28C50A49",
+    "distribution_center_id": "1"
+  }, {
+    "id": "28204",
+    "cost": "30.940000083297488",
+    "category": "Swim",
+    "name": "TYR Sport Men\u0027s Great White Epic Splice Jammer Swim Suit",
+    "brand": "TYR",
+    "retail_price": "52.0",
+    "department": "Men",
+    "sku": "ECBC7B96B9EC7951187D0DA02230773D",
+    "distribution_center_id": "1"
+  }, {
+    "id": "1513",
+    "cost": "5.5207498882077637",
+    "category": "Sweaters",
+    "name": "VIP Womens Bright Crochet Pullover Sweater",
+    "brand": "VIP",
+    "retail_price": "12.989999771118164",
+    "department": "Women",
+    "sku": "2B3BF3EEE2475E03885A110E9ACAAB61",
+    "distribution_center_id": "1"
+  }, {
+    "id": "3580",
+    "cost": "5.6519598958575727",
+    "category": "Dresses",
+    "name": "VIP Womens Ladies Belted Pleated Skater Party Dress",
+    "brand": "VIP",
+    "retail_price": "13.989999771118164",
+    "department": "Women",
+    "sku": "630B7D8DD49A0BAB667498F287D68C16",
+    "distribution_center_id": "1"
+  }, {
+    "id": "4330",
+    "cost": "21.166000001132488",
+    "category": "Jeans",
+    "name": "YMI Juniors Five Pocket Jegging Jean",
+    "brand": "YMI",
+    "retail_price": "38.0",
+    "department": "Women",
+    "sku": "0D5BD023A3EE11C7ABCA5B42A93C4866",
+    "distribution_center_id": "1"
+  }, {
+    "id": "4474",
+    "cost": "16.042479567889572",
+    "category": "Jeans",
+    "name": "YMI Juniors Floral Skinny",
+    "brand": "YMI",
+    "retail_price": "27.469999313354489",
+    "department": "Women",
+    "sku": "0E1FEAE55E360FF05FEF58199B3FA521",
+    "distribution_center_id": "1"
+  }, {
+    "id": "4477",
+    "cost": "14.925300380962714",
+    "category": "Jeans",
+    "name": "YMI Belted Flare Leg Jeans [P466255-B1093]",
+    "brand": "YMI",
+    "retail_price": "27.950000762939453",
+    "department": "Women",
+    "sku": "D03A857A23B5285736C4D55E0BB067C8",
+    "distribution_center_id": "1"
+  }, {
+    "id": "4889",
+    "cost": "15.886519859669283",
+    "category": "Jeans",
+    "name": "YMI Sandblasted Stretch Skinny Jeans [P139657]",
+    "brand": "YMI",
+    "retail_price": "28.989999771118164",
+    "department": "Women",
+    "sku": "CF63547FADC1AA6E897A62291E0CB124",
+    "distribution_center_id": "1"
+  }, {
+    "id": "4946",
+    "cost": "13.824999984353781",
+    "category": "Jeans",
+    "name": "YMI Juniors Fleur De Lis Capri Jean",
+    "brand": "YMI",
+    "retail_price": "25.0",
+    "department": "Women",
+    "sku": "280CF18BAF4311C92AA5A042336587D3",
+    "distribution_center_id": "1"
+  }, {
+    "id": "4983",
+    "cost": "15.828539850623384",
+    "category": "Jeans",
+    "name": "YMI Stretch Bootcut Jeans W/ Button-Flap Pockets [P362075]",
+    "brand": "YMI",
+    "retail_price": "28.989999771118164",
+    "department": "Women",
+    "sku": "124C3E4ADA4A529AA0FEDECE80BB42AB",
+    "distribution_center_id": "1"
+  }, {
+    "id": "6332",
+    "cost": "5.3024399470737578",
+    "category": "Shorts",
+    "name": "YMI Juniors Heavy Stitch Bermuda",
+    "brand": "YMI",
+    "retail_price": "11.329999923706056",
+    "department": "Women",
+    "sku": "53B354612D26628E73986A80E254864E",
+    "distribution_center_id": "1"
+  }, {
+    "id": "6361",
+    "cost": "12.519989886517161",
+    "category": "Shorts",
+    "name": "YMI Stretch 5-Pocket Denim Bermuda Shorts [M66169]",
+    "brand": "YMI",
+    "retail_price": "24.989999771118164",
+    "department": "Women",
+    "sku": "38EB982EE635354D3FEBF457BEEEE736",
+    "distribution_center_id": "1"
+  }, {
+    "id": "6463",
+    "cost": "20.101999968290329",
+    "category": "Shorts",
+    "name": "YMI Juniors Colored Denim Short",
+    "brand": "YMI",
+    "retail_price": "38.0",
+    "department": "Women",
+    "sku": "A2F04745390FD6897D09772B2CD1F581",
+    "distribution_center_id": "1"
+  }, {
+    "id": "6583",
+    "cost": "11.520389874376953",
+    "category": "Shorts",
+    "name": "YMI Cuffed Denim Shorts W/ Wide Waistband [S101437]",
+    "brand": "YMI",
+    "retail_price": "24.989999771118164",
+    "department": "Women",
+    "sku": "5763ABE87ED1938799203FB6E8650025",
+    "distribution_center_id": "1"
+  }, {
+    "id": "6591",
+    "cost": "20.25399999320507",
+    "category": "Shorts",
+    "name": "YMI Juniors Embroidered Short",
+    "brand": "YMI",
+    "retail_price": "38.0",
+    "department": "Women",
+    "sku": "486FBD761BFA5400722324FDC9822ADC",
+    "distribution_center_id": "1"
+  }, {
+    "id": "6793",
+    "cost": "11.443229889750928",
+    "category": "Shorts",
+    "name": "YMI Stretch Distressed \u0026 Frayed Denim Shorts",
+    "brand": "YMI",
+    "retail_price": "23.989999771118164",
+    "department": "Women",
+    "sku": "F5E536083A438CEC5B64A4954ABC17F1",
+    "distribution_center_id": "1"
+  }, {
+    "id": "25089",
+    "cost": "19.733719508542418",
+    "category": "Socks",
+    "name": "3 - Prs. 5.11 Tactical 9 inch Socks Black",
+    "brand": "5.11",
+    "retail_price": "31.8799991607666",
+    "department": "Men",
+    "sku": "1CB6F99BF9ADCA74F84A17F6E5498BD6",
+    "distribution_center_id": "1"
+  }, {
+    "id": "29099",
+    "cost": "13.805250253187491",
+    "category": "Accessories",
+    "name": "Beza Geneva Money Clamp Black Matte with Wallet",
+    "brand": "Beza",
+    "retail_price": "34.950000762939453",
+    "department": "Men",
+    "sku": "3540A005CE1B9C61B8C40338A7FA3B56",
+    "distribution_center_id": "1"
+  }, {
+    "id": "3212",
+    "cost": "25.73999997228384",
+    "category": "Dresses",
+    "name": "Bobi Women\u0027s Modal Jersey Cowl Neck Dress",
+    "brand": "Bobi",
+    "retail_price": "60.0",
+    "department": "Women",
+    "sku": "0AAE0FEDE9A4D278E2F9A171E62FC76B",
+    "distribution_center_id": "1"
+  }]

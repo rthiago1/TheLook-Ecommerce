@@ -8,9 +8,9 @@ Insights and recommendations are provided on the following key areas:
 - **Average Order Value (AOV) by Segment:** Segmenting customers based on purchase history and calculating their AOV can help tailor promotions and improve customer targeting.
 - **Customer Retention Rate by Marketing Channel:** By examining retention rates for customers acquired through various marketing channels, we can assess the effectiveness of marketing strategies.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [].
+--
 
-Targed SQL queries regarding various business questions can be found here []
+--
 
 An interactive Power BI dashboard used to report and explore sales trends can be found here [link](https://app.powerbi.com/view?r=eyJrIjoiNGQ3MWVlOWUtMGYwNC00N2U2LWFkZTctOGIxYTNkYzgwODMyIiwidCI6ImRkNjZhNjhkLTM1ZGEtNGE4NS05NDJhLTRiYTg4NTI1ZGIzMiIsImMiOjh9)
 

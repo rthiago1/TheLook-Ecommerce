@@ -50,7 +50,7 @@ Notable peaks in April ($90.80) and July ($90.60), with dips in May ($83.00) and
 Despite fluctuations throughout the year, basket size generally increases from August, reaching $88.61 in October. This may indicate growing customer engagement or interest in higher-value purchases, presenting an opportunity for targeted marketing and cross-selling campaigns in the upcoming months.
 
 
-[image_AOV]
+![image_AOV](https://github.com/rthiago1/TheLook-Ecommerce/blob/main/imgs/AOV.jpg?raw=true)
 
 
 # Recommendations:

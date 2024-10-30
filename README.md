@@ -22,6 +22,11 @@ An interactive Power BI dashboard used to report and explore sales trends can be
 
 The companies main database structure as seen below consists of seven tables: **distribution_centers**, **users**, **order_items**, **orders**, **products**, **events**, **inventory_items** with a total row count of 2.4m records.
 
+<br>
+PS.: The raw_files are reduced in 90%> to be able to store them in the repository.
+
+<br> 
+
 ![Entity Relationship Diagram here](https://github.com/rthiago1/TheLook-Ecommerce/blob/main/imgs/logical_model_white.jpg?raw=true)
 
 

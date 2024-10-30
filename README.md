@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
 
 <br>
 
-Targed SQL queries regarding various business questions can be found here []
+Targed SQL queries regarding various business questions can be found here [here](https://github.com/rthiago1/TheLook-Ecommerce/tree/main/queries)
 
 <br>
 
